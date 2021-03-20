@@ -21,9 +21,9 @@
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png"></code>
 
 <a href="https://github.com/nevrending/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nevrending&show_icons=true&include_all_commits=true&count_private=true&theme=great-gatsby" alt="NevREnding's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nevrending&show_icons=true&include_all_commits=true&count_private=true&theme=react" alt="NevREnding's GitHub stats" />
 </a>
 
 <a href="https://github.com/nevrending/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevrending&layout=compact&theme=great-gatsby" alt="NevREnding's Top Lang stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevrending&layout=compact&theme=react" alt="NevREnding's Top Lang stats" />
 </a>
