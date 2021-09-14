@@ -7,12 +7,15 @@ I'm a software developer from Indonesia, currently residing in Melbourne, Austra
 [![Twitter](https://img.shields.io/badge/Twitter-%2300acee.svg?&style=flat&logo=twitter&logoColor=white)](https://www.twitter.com/yeftasutanto)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=flat&logo=telegram&logoColor=white)](https://t.me/ysutanto)
 
-&#128301; I’m currently working on **improving fresh produce supply chain** with &#127808;[Panenpa](https://panenpa.com) and several 𝒇𝒖𝒏 personal projects.<br />
-&#127793; I’m currently learning [Rust](https://github.com/rust-lang/rust)<br />
-&#128247; I do photowalks in my spare time.<br />
-&#129418; A [𝑭𝒓𝒊𝒆𝒏𝒅](https://www.youtube.com/watch?v=TFvBnUHBYvU)
+&#128301;&nbsp;&nbsp;I’m currently working on **improving fresh produce supply chain** with &#127808; [Panenpa](https://panenpa.com) and several 𝒇𝒖𝒏 personal projects.<br />
+&#127793;&nbsp;&nbsp;I’m currently learning [Rust](https://github.com/rust-lang/rust)<br />
+&#128247;&nbsp;&nbsp;I do photowalks in my spare time.<br />
+&#129418;&nbsp;&nbsp;A [𝑭𝒓𝒊𝒆𝒏𝒅](https://www.youtube.com/watch?v=TFvBnUHBYvU)
 
-**Cryptonaut** _noun_ : Not to be confused with the coin portfolio tracker of the same name, consider this a portmanteau of the words cryptocurrencer and astronaut. It’s a special type of cryptocurrencer, one who explores the lesser visited galaxies of the cryptocurrency industry.
+<details>
+  <summary><strong>Cryptonaut &#128640;</strong></summary>
+   <em>(noun)</em> : Not to be confused with the coin portfolio tracker of the same name, consider this a portmanteau of the words cryptocurrencer and astronaut. It’s a special type of cryptocurrencer, one who explores the lesser visited galaxies of the cryptocurrency industry.
+</details>
 
 #### Stack &#128104;&#8205;&#128187;
 
@@ -41,12 +44,13 @@ I'm a software developer from Indonesia, currently residing in Melbourne, Austra
 [![Portainer](https://img.shields.io/badge/Portainer-%2313Bef9?style=flat&logoColor=%23FFF&logo=portainer)](https://www.portainer.io/)
 [![Rancher](https://img.shields.io/badge/Rancher-%230075a8?style=flat&logoColor=%23FFF&logo=rancher)](https://rancher.com/)
 
-### Some Stats &#10024;
+<details>
+  <summary>Some Stats &#10024;</summary>
+  <a href="https://github.com/nevrending/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nevrending&show_icons=true&include_all_commits=true&count_private=true&theme=react" alt="NevREnding's GitHub stats" />
+  </a>
 
-<a href="https://github.com/nevrending/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nevrending&show_icons=true&include_all_commits=true&count_private=true&theme=react" alt="NevREnding's GitHub stats" />
-</a>
-
-<a href="https://github.com/nevrending/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevrending&layout=compact&theme=react" alt="NevREnding's Top Lang stats" />
-</a>
+  <a href="https://github.com/nevrending/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevrending&layout=compact&theme=react" alt="NevREnding's Top Lang stats" />
+  </a>
+</details>
