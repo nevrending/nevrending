@@ -46,6 +46,8 @@ I'm a software developer from Indonesia, currently residing in Melbourne, Austra
 
 <details>
   <summary>Some Stats &#10024;</summary>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=nevrending.nevrending" alt="Visitors Count Badge" />
+  <br>
   <a href="https://github.com/nevrending/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=nevrending&show_icons=true&include_all_commits=true&count_private=true&theme=react" alt="NevREnding's GitHub stats" />
   </a>
