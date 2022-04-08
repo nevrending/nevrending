@@ -1,15 +1,16 @@
 ## Hi there, [Yefta](https://yefta.com) here! &#128075;
 
 I'm a software developer from Indonesia, currently residing in Melbourne, Australia.<br />
-9+ years of experience in web development.<br />
-2+ years of experience in DevOps.
+10+ years of experience in web development.<br />
+3+ years of experience in DevOps.
 
 [![Twitter](https://img.shields.io/badge/Twitter-%2300acee.svg?&style=flat&logo=twitter&logoColor=white)](https://www.twitter.com/yeftasutanto)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=flat&logo=telegram&logoColor=white)](https://t.me/ysutanto)
 
 &#128301;&nbsp;&nbsp;I’m currently working on **improving fresh produce supply chain** with &#127808; [Panenpa](https://panenpa.com) and several 𝒇𝒖𝒏 personal projects.<br />
-&#127793;&nbsp;&nbsp;I’m currently learning [Rust](https://github.com/rust-lang/rust)<br />
+&#127793;&nbsp;&nbsp;I’m currently learning [![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logoColor=%23444&logo=react)](https://reactjs.org/) and [![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logoColor=%23FFF&logo=typescript)](https://www.typescriptlang.org/)<br />
 &#128247;&nbsp;&nbsp;I do photowalks in my spare time.<br />
+&#9749;&nbsp;&nbsp;A cup a day.<br />
 &#129418;&nbsp;&nbsp;A [𝑭𝒓𝒊𝒆𝒏𝒅](https://www.youtube.com/watch?v=TFvBnUHBYvU)
 
 <details>
