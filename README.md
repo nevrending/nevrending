@@ -1,13 +1,13 @@
 ## Hi there, [Yefta](https://yefta.com) here! &#128075;
 
-I'm a software developer from Indonesia, currently residing in Melbourne, Australia.<br />
-10+ years of experience in web development.<br />
+I'm a software developer in Melbourne, Australia.<br />
+10+ years of experience in web development, especially in PHP and Laravel.<br />
 3+ years of experience in DevOps.
 
 [![Twitter](https://img.shields.io/badge/Twitter-%2300acee.svg?&style=flat&logo=twitter&logoColor=white)](https://www.twitter.com/yeftasutanto)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=flat&logo=telegram&logoColor=white)](https://t.me/ysutanto)
 
-&#128301;&nbsp;&nbsp;I’m currently working on **improving fresh produce supply chain** with &#127808; [Panenpa](https://panenpa.com) and several 𝒇𝒖𝒏 personal projects.<br />
+&#128301;&nbsp;&nbsp;I’m currently working on **improving the OSS/BSS stack** at :satellite: [Opticomm](https://opticomm.com.au) and several 𝒇𝒖𝒏 personal projects.<br />
 &#127793;&nbsp;&nbsp;I’m currently learning [![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logoColor=%23444&logo=react)](https://reactjs.org/) and [![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logoColor=%23FFF&logo=typescript)](https://www.typescriptlang.org/)<br />
 &#128247;&nbsp;&nbsp;I do photowalks in my spare time.<br />
 &#9749;&nbsp;&nbsp;A cup a day.<br />
@@ -24,6 +24,8 @@ I'm a software developer from Indonesia, currently residing in Melbourne, Austra
 [![Laravel](https://img.shields.io/badge/Laravel-%23ff2d20?style=flat&logoColor=%23FFF&logo=laravel)](https://laravel.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-%2300758f?style=flat&logoColor=%23FFF&logo=mysql)](https://www.mysql.com/)
 [![MariaDB](https://img.shields.io/badge/MariaDB-%23003545?style=flat&logoColor=%23FFF&logo=mariadb)](https://www.mariadb.com/)
+[![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logoColor=%23444&logo=react)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logoColor=%23FFF&logo=typescript)](https://www.typescriptlang.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-%23e34c26?style=flat&logoColor=%23FFF&logo=html5)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572b6?style=flat&logoColor=%23FFF&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23f0db4f?style=flat&logoColor=%23333&logo=javascript)](https://www.javascript.com/)
@@ -31,6 +33,7 @@ I'm a software developer from Indonesia, currently residing in Melbourne, Austra
 #### Tools &#128295;
 
 [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23ff9800?style=flat&logoColor=%23FFF&logo=sublime-text)](https://www.sublimetext.com/)
+[![NPM](https://img.shields.io/badge/NPM-%23cb3837?style=flat&logoColor=%23FFF&logo=npm)](https://npmjs.com/)
 [![Yarn](https://img.shields.io/badge/Yarn-%232c8ebb?style=flat&logoColor=%23FFF&logo=yarn)](https://yarnpkg.com/)
 [![Git](https://img.shields.io/badge/Git-%23f34f29?style=flat&logoColor=%23FFF&logo=git)](https://git-scm.com/)
 [![Bash Shell](https://img.shields.io/badge/Bash-%234eaa25?style=flat&logoColor=%23FFF&logo=gnu-bash)](https://www.gnu.org/software/bash/)
@@ -47,12 +50,16 @@ I'm a software developer from Indonesia, currently residing in Melbourne, Austra
 
 <details>
   <summary>Some Stats &#10024;</summary>
-  <a href="https://github.com/nevrending/github-readme-stats">
-    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=nevrending&show_icons=true&include_all_commits=true&count_private=true&theme=react" alt="NevREnding's GitHub stats" />
-  </a>
-
-  <a href="https://github.com/nevrending/github-readme-stats">
-    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevrending&layout=compact&theme=react&langs_count=6" alt="NevREnding's Top Lang stats" />
-  </a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=nevrending.nevrending" alt="Visitors Count Badge" />
+  <br/>
+  <div>
+    <a href="https://visitorbadge.io/status?path=github.com%2Fnevrending"><img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fnevrending&label=Visitors&labelColor=%232aaae4&countColor=%23263759&style=flat&labelStyle=none" /></a>
+  </div>
+  <div>
+    <a href="https://github.com/nevrending/github-readme-stats">
+      <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=nevrending&show_icons=true&include_all_commits=true&count_private=true&theme=react" alt="NevREnding's GitHub stats" />
+    </a>
+    <a href="https://github.com/nevrending/github-readme-stats">
+      <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevrending&layout=compact&theme=react&langs_count=6" alt="NevREnding's Top Lang stats" />
+    </a>
+  </div>
 </details>
