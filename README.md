@@ -52,14 +52,15 @@ I'm a software developer in Melbourne, Australia.<br />
   <summary>Some Stats &#10024;</summary>
   <br/>
   <div>
-    <a href="https://visitorbadge.io/status?path=github.com%2Fnevrending"><img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fnevrending&label=Visitors&labelColor=%232aaae4&countColor=%23263759&style=flat&labelStyle=none" /></a>
-  </div>
-  <div>
     <a href="https://github.com/nevrending/github-readme-stats">
       <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=nevrending&show_icons=true&include_all_commits=true&count_private=true&theme=react" alt="NevREnding's GitHub stats" />
     </a>
     <a href="https://github.com/nevrending/github-readme-stats">
       <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevrending&layout=compact&theme=react&langs_count=6" alt="NevREnding's Top Lang stats" />
     </a>
+  </div>
+  <br/>
+  <div>
+    <a href="#"><img src="https://count.getloli.com/get/@nevrending.github.io?theme=rule34" /></a>
   </div>
 </details>
